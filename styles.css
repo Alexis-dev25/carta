@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #111;
+    text-align: center;
+}
+a {
+    color: cyan;
+}
+h1 {
+    background-color: #222;
+    color: whitesmoke;
+    border: 3px solid white;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 10px;
+}
+section {
+    background-color: #222;
+    color: whitesmoke;
+    border: 3px solid white;
+    padding: 10px 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 10px;
+}
+div {
+    background-color: #222;
+    color:white;
+    padding: 5px 20px;
+    margin-top: 15px;
+    border: 2px solid white;
+    border-radius: 10px;    
+}
