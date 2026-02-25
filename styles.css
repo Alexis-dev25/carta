@@ -161,7 +161,10 @@ p:hover {
     color: #d63384;
     text-shadow: 0 0 10px rgba(255, 105, 180, 0.3);
 }
-
+::selection {
+    background-color: #d63384;
+    color: white;
+}
 ul {
     list-style: none;
     margin: 20px 0;
